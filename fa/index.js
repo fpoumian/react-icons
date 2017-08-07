@@ -447,6 +447,7 @@ export FaQrcode from './qrcode';
 export FaQuestionCircleO from './question-circle-o';
 export FaQuestionCircle from './question-circle';
 export FaQuestion from './question';
+export FaQuora from './quora';
 export FaQuoteLeft from './quote-left';
 export FaQuoteRight from './quote-right';
 export FaRa from './ra';
